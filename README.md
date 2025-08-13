@@ -28,6 +28,10 @@ The figure below shows comparative segmentation outputs:
 - **Column 4:** Segmentation by baseline U-Net  
 - **Column 5:** Segmentation by Salient Attention U-Net  
 
+<p align="center">
+  <img width="850" height="519" alt="Comparison-of-breast-lesion-segmentation-among-different-methods-A-Testing-images" src="https://github.com/user-attachments/assets/8618c256-4be3-4eb2-a703-866859af6579" />
+</p>
+
 <p align="center">  
   <img width="720" src="Figures/figure_with_results.jpg" alt="Segmentation results comparison">  
 </p>
