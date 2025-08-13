@@ -31,6 +31,12 @@ The figure below shows comparative segmentation outputs:
 <p align="center">
   <img width="850" height="519" alt="Comparison-of-breast-lesion-segmentation-among-different-methods-A-Testing-images" src="https://github.com/user-attachments/assets/8618c256-4be3-4eb2-a703-866859af6579" />
 </p>
+<p align="center">
+  <img width="850" height="546" alt="Segmentation-results-of-various-methods-applied-to-BUSI-The-red-curves-represent-the" src="https://github.com/user-attachments/assets/ee792d21-9e5a-4f4b-833f-6e220727e8e2" />
+</p>
+<p align="center">
+  ![1-s2 0-S0933365724001611-gr10](https://github.com/user-attachments/assets/51496b97-6710-45f0-baba-89ee88827b1e)
+</p>
 
 <p align="center">  
   <img width="720" src="Figures/figure_with_results.jpg" alt="Segmentation results comparison">  
